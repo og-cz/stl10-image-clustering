@@ -1,4 +1,4 @@
-# Discovering-Image-Clusters-in-STL10
+# STL10 Unsupervised Clustering
 
 This repository is part of the finals for Advanced Machine Learning. The goal of this project is to explore hidden patterns and structure in images using unsupervised learning techniques. We work with the unlabeled STL‑10 dataset, which contains a diverse set of natural images.
 
