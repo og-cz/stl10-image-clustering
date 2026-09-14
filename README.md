@@ -1,4 +1,4 @@
-# STL-10 Cluster Discovery - Handcrafted Features vs. Natural Image Structure
+# STL-10 Image Clustering
 
 Unsupervised clustering of 3,000 STL-10 images (2,000 train / 1,000 test) using only
 handcrafted descriptors  no labels, no deep features. The real question this project
